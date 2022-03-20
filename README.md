@@ -1,4 +1,7 @@
 # ubs_assingment_service
+# Prerequisite Software
+# 1. Nodejs
+# 2. mongodb
 # How to Start
 # 1. git clone https://github.com/gajendrapratap/ubs_assingment_service.git
 # 2. npm install
